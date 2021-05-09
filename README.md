@@ -151,8 +151,19 @@
 > * **Mail me:** vivek.chavhan8003@gmail.com
 > * **LinkedIn:** www.linkedin.com/in/vivekchavhan
 > * **Freelancer:** -
-> * **Portfolio Website:** vivek-chavhan.github.io
- ---
+> * **Portfolio Website:** https://vivek-chavhan.github.io
+> * **Resume:** https://vivek-chavhan.github.io/resume
+> 
+---
+ 
+## &#10023; Work Samples
+> * Work Samples: https://vivek-chavhan.github.io/work-samples
+> * AutoCAD: https://vivek-chavhan.github.io/AutoCAD/
+> * CATAIv5: https://vivek-chavhan.github.io/CATIAv5/
+> * PTC-Creo: https://vivek-chavhan.github.io/PTC-Creo/
+> * Assembly Projects: https://vivek-chavhan.github.io/Assembly-Projects/
+
+
 ## &#10023; Hire Me:
 > ![Vivek Header](https://user-images.githubusercontent.com/83652490/117562356-0211e700-b0bc-11eb-9cba-e56b4dea9a80.png)
 ---
